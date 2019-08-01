@@ -50,8 +50,7 @@ p {
 
 button,
 input[type=submit] {
-    margin: .3rem;
-    margin-left: 0;
+    margin: .2rem .3rem .2rem 0;
     background: #6157ff;
     border: none;
     border-radius: 1px;
